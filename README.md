@@ -1,6 +1,6 @@
 # Task Management Application
 
-[Watch the loom video]([#](https://www.loom.com/share/7d5045f06ef14c6d87cfeb2aa662263d?sid=0d6a0126-adaa-480e-a704-288c5896a63f)) <!-- Add the actual video link here -->
+[Watch the loom video]([https://www.loom.com/share/7d5045f06ef14c6d87cfeb2aa662263d?sid=0d6a0126-adaa-480e-a704-288c5896a63f]) <!-- Add the actual video link here -->
 
 ## Introduction
 
